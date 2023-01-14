@@ -1,0 +1,46 @@
+img {
+  width: 100px;
+  height: auto;
+}
+
+img.enlarged {
+  position: absolute;
+  width: 700px;
+  height: auto;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 50px;
+}
+
+.contains-enlarged{
+  display: flex;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+
+}
+
+.container1{
+  position: absolute;
+  width: 100%;
+  left: 0;
+  margin: auto;
+  padding: 10px;
+}
+
+.containsImg{
+  display: inline-flex;
+  flex: 1 1 auto;
+  flex-grow: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  -ms-flex-align: start;
+}
+
+.closeButton {
+  position: absolute;
+  right:0;
+  width: 45px;
+  background-color: red;
+  color: #eeeeee;
+  font-weight: 1000;
+}

@@ -1,25 +1,58 @@
-import logo from './logo.svg';
-import './App.css';
+import './styles.scss';
+import Masonry from "./Masonry";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div>
+            <div className="imgLoader"></div>
+
+            <div className="container">
+
+                <h1 className="title">
+                    Portfolio of Theresa Mostert
+                </h1>
+                <h2 className="subtitle">Portraits</h2>
+
+                <div className="book">
+                    <div className="gap"></div>
+                    <div className="pages">
+                        <div className="page"></div>
+                        <div className="page"></div>
+                        <div className="page"></div>
+                        <div className="page"></div>
+                        <div className="page"></div>
+                        <div className="page"></div>
+                    </div>
+
+                    <div className="flips">
+                        <div className="flip flip1">
+                            <div className="flip flip2">
+                                <div className="flip flip3">
+                                    <div className="flip flip4">
+                                        <div className="flip flip5">
+                                            <div className="flip flip6">
+                                                <div className="flip flip7">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {/*<Thumbnails/>*/}
+
+
+            <div className="thumbnails">
+                &#169; Theresa Mostert Photography 2023
+            </div>
+
+            <Masonry/>
+        </div>
+    );
 }
 
 export default App;
