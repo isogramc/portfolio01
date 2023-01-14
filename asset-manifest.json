@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio01/static/css/main.7af4b1d2.css",
+    "main.js": "/portfolio01/static/js/main.454ca33b.js",
+    "static/js/787.5a4480ce.chunk.js": "/portfolio01/static/js/787.5a4480ce.chunk.js",
+    "static/media/tour_greece-colour.png": "/portfolio01/static/media/tour_greece-colour.4cdae56c661896a0cca0.png",
+    "static/media/nature.png": "/portfolio01/static/media/nature.71211993399c23c5e7bd.png",
+    "static/media/so_proud_of_sabre.png": "/portfolio01/static/media/so_proud_of_sabre.7eba74081be6bc301ec6.png",
+    "static/media/beach.png": "/portfolio01/static/media/beach.3b45f2aefd256e1f2362.png",
+    "static/media/baby.png": "/portfolio01/static/media/baby.1c989daf276407a7a4ef.png",
+    "static/media/so_not_posing.png": "/portfolio01/static/media/so_not_posing.cb8ce0fed58cbbb7f550.png",
+    "static/media/klaarbar.png": "/portfolio01/static/media/klaarbar.089c8a3977850b4b55d4.png",
+    "static/media/spain.png": "/portfolio01/static/media/spain.60c5f4be2dfabed29cca.png",
+    "static/media/conversation.png": "/portfolio01/static/media/conversation.0d2baec671fefc4941b8.png",
+    "static/media/perspective.png": "/portfolio01/static/media/perspective.dde5fcac46efc49bc0a9.png",
+    "static/media/cute.png": "/portfolio01/static/media/cute.3611806dacf70dcd1225.png",
+    "static/media/baby2.png": "/portfolio01/static/media/baby2.ff5401354519de52ab0f.png",
+    "static/media/lali.png": "/portfolio01/static/media/lali.b2fbba93fe0dcb1cc3f9.png",
+    "static/media/tour-greece-bw.png": "/portfolio01/static/media/tour-greece-bw.6fad1aaf665af4b63134.png",
+    "static/media/paris.png": "/portfolio01/static/media/paris.39b71c289eb633940e4e.png",
+    "static/media/cake.png": "/portfolio01/static/media/cake.5394a242a1dff1f3e2b8.png",
+    "static/media/silhoette.png": "/portfolio01/static/media/silhoette.fa67c14af744ccb5ec43.png",
+    "static/media/mother_and_daughter.png": "/portfolio01/static/media/mother_and_daughter.819c5768ff7759f1561a.png",
+    "static/media/santa-xmasparty.png": "/portfolio01/static/media/santa-xmasparty.6bfc18ee47a4a27943be.png",
+    "static/media/dress.png": "/portfolio01/static/media/dress.a3bc731eb464f8a0ecfa.png",
+    "static/media/water.png": "/portfolio01/static/media/water.91c29ec55c896c4225b4.png",
+    "static/media/usi.png": "/portfolio01/static/media/usi.cf1b63c2d0ac60d2eb25.png",
+    "static/media/singled_out.png": "/portfolio01/static/media/singled_out.ec1ccd6382cacd53e74e.png",
+    "static/media/hat.png": "/portfolio01/static/media/hat.c54413c6e95ff5dd7aad.png",
+    "index.html": "/portfolio01/index.html",
+    "main.7af4b1d2.css.map": "/portfolio01/static/css/main.7af4b1d2.css.map",
+    "main.454ca33b.js.map": "/portfolio01/static/js/main.454ca33b.js.map",
+    "787.5a4480ce.chunk.js.map": "/portfolio01/static/js/787.5a4480ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af4b1d2.css",
+    "static/js/main.454ca33b.js"
+  ]
+}
